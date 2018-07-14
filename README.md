@@ -13,7 +13,7 @@ Troubleshooting & Notes:
 
 So all steps console and error messages will be recorded to logfile. You can follow it online during script execution in second ssh session using
 ```
-tail -f ~/phcmnsetup.log
+tail -f ~/velummnsetup.log
 ```
 
 After script execution you can find the main status of spets execution if you filter logfile for rows containing '# '
